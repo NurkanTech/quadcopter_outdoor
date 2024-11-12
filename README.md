@@ -6,7 +6,7 @@ git clone  https://github.com/NurkanTech/quadcopter_outdoor.git
 ```
 
 If you have installed ros, the next steps:
-1.
+1
 ```
 cd ~/<yoursworkspace>
 roscore
