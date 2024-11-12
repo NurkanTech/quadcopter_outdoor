@@ -1,0 +1,3 @@
+[submodule "src/src/hector_quadcopter_noetic"]
+	path = src/src/hector_quadcopter_noetic
+	url = https://github.com/RAFALAMAO/hector-quadrotor-noetic.git
