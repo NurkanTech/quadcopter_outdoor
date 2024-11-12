@@ -18,6 +18,10 @@ roslaunch hector_quadrotor_demo outdoor_flight_gazebo.launch
 ```
 roslaunch hector_quadrotor_demo outdoor_flight_gazebo_no_rviz.launch
 ```
+```
+rosrun quadcopter_autonom.py
+```
+
 ## Overview
 
 
