@@ -10,6 +10,8 @@ If you have installed ros, the next steps:
 ```
 cd ~/<yoursworkspace>
 roscore
+```
+```
 roslaunch hector_quadrotor_gazebo quadrotor_empty_world.launch
 ```
 ```
